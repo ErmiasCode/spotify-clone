@@ -1,0 +1,11 @@
+//Spotify learnings
+
+User authentication (firebase)
+Spotify API
+Responsive Design
+Material UI (icons)
+React Context API (Like Redux)
+Modern Tech 
+React Hooks 
+Entire REACT Tech Stack
+hosting on firebase
