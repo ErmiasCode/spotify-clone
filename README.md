@@ -1,4 +1,4 @@
-# My React - Spotify UI Clone Project
+# My React - Spotify Clone Project
 
 Welcome to my React Vite - Spotify UI Clone Project!
 In this repository, you will find everything you need to download and run this project locally.
